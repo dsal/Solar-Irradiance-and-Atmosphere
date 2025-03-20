@@ -8,7 +8,7 @@ Solar radiation is critical for HSI analysis. Spectral and temporal variations i
 Three highly sensitive hyperspectral radiometers were installed to measure the spectral irradiance, transmittance, and reflectance of sea ice. In the following figure, the left image, A, includes two sensors (an upward-looking sensor to measure decreasing irradiance and a downward-looking sensor to measure the reflected irradiance) and the right image, B, includes an under-ice sensor positioned approximately 0.5 meters below the ice that measures the transmitted irradiance.
 
 ![Sensors](https://github.com/user-attachments/assets/ed9a0970-1a24-467f-97c3-24c4ebe698a3)
-Figure 1: The figure illustrates the setup of the above-ice (A) and below-ice sensors (B).
+Figure 1: The figure illustrates the setup of the above-ice (A) and below-ice sensors (B) [Courtesy of Dr. Marcel Nicolaus (2024)]
 
 
 ![Down](https://github.com/user-attachments/assets/e42a0d31-8762-452f-bff1-6d08ef0a9248)
