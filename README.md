@@ -1,3 +1,5 @@
+by Ahmad Salehi
+
 # Solar-Irradiance-and-Atmosphere
 Interpreting optical measurements requires a comprehensive understanding of weather and illumination conditions, as these factors significantly influence the spectral and temporal variations in surface reflectance. Weather conditions, such as cloud cover and atmospheric pressure, play a crucial role in determining interation of light with surfaces.
 
