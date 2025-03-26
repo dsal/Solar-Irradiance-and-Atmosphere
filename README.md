@@ -1,6 +1,6 @@
+# Solar-Irradiance-and-Atmosphere
 by Ahmad Salehi
 
-# Solar-Irradiance-and-Atmosphere
 Interpreting optical measurements requires a comprehensive understanding of weather and illumination conditions, as these factors significantly influence the spectral and temporal variations in surface reflectance. Weather conditions, such as cloud cover and atmospheric pressure, play a crucial role in determining interation of light with surfaces.
 
 The direction of illumination significantly influences the broadband albedo, which represents the surface albedo over a specific wavelength range. This effect is primarily due to the anisotropic property. To accurately measure and analyze the broadband albedo under various illumination conditions, such as side-scattering, backward-scattering, and forward-scattering, the Solar Zenith Angle (SZA) and Solar Azimuth Angle are critical parameters. These angles are derived using a Python package developed by Samuel Bear Powell, which requires latitude, longitude, and time as input variables. The SZA exhibits a sinusoidal pattern, with its amplitude domain shifting upwards due to the Earth's axial rotation and axial tilt. An increase in SZA indicates that the sun is approaching the horizon, thereby providing optimal conditions for measuring surface broadband albedo under backward- and forward-scattering situations.
